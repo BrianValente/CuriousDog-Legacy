@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+smarty/templates_c/
+uploads/profile/header/*.jpg
+uploads/profile/header/*.png
+uploads/profile/picture/*jpg
+uploads/profile/picture/*png
